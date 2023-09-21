@@ -1,4 +1,4 @@
-![logo](https://github.com/HarshitS45/HarshitS45/blob/main/background.jpeg)
+![logo](https://github.com/HarshitS45/HarshitS45/blob/main/life.jpg)
 <h1 align="center">Hi 👋, I'm Harshit Srivastava</h1>
 <h3 align="center">Student at IIIT Dharwad</h3>
 
